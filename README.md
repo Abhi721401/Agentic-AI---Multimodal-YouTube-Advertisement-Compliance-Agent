@@ -37,27 +37,7 @@ Ad platforms
 
 # 🏗 System Architecture
 
-YouTube URL
-      ↓
-Video Download (yt-dlp)
-      ↓
-Audio Extraction (ffmpeg)
-      ↓
-Whisper Transcription
-      ↓
-Frame Extraction (OpenCV)
-      ↓
-OCR Detection (Tesseract)
-      ↓
-Unified Multimodal Document
-      ↓
-RAG Retrieval (FAISS + SentenceTransformers)
-      ↓
-Groq LLM Compliance Agent
-      ↓
-Statistical Risk Engine
-      ↓
-Structured JSON Compliance Report
+![system archeteture](system_archetecture.png)
 
 # 🧠 Core Components
 
